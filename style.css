@@ -1,4 +1,26 @@
-body{
-    background-color: black;
-    color: white;
+body{   
+    background-color: salmon;
+    margin: 40px;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+    border: 5px solid black;
+   
+}
+
+
+li{
+    color: #333333;
+    font-size: 19px;
+    font-family: cursive
+}
+img {
+    width: 50%;
+}
+div {
+     color: #333;
+    font-size: 19px;
+    font-family: cursive
 }
