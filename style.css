@@ -1,4 +1,4 @@
-body{   
+.body{   
     background-color: salmon;
     margin: 40px;
     max-width: 650px;
@@ -11,16 +11,70 @@ body{
 }
 
 
-li{
+.li{
     color: #333333;
     font-size: 19px;
     font-family: cursive;
 }
-img {
+.img {
     width: 50%;
 }
-div {
+.div {
     color: #333;
     font-size: 19px;
     font-family: cursive;
+}
+
+.intro {
+    background-color: darkmagenta;
+    margin: 60px;
+    max-height: inherit;
+    max-width: inherit;
+    line-height: 4.0;
+    font-size: 26px;
+    color: forestgreen;
+    font-family: monospace;
+}
+
+
+
+.div {
+    background-color: aquamarine;
+    width:500px;
+    height: 500px;
+}
+
+
+.s {
+    background-color: burlywood;
+    width: 25%;
+    height: 50px;
+}
+
+
+.w-50 {
+    background-color: blue;
+    width: 25%;
+    height: 50px;
+    
+}
+
+
+.pp {
+    background-color: black;
+    width: 50%;
+    height: 50px;
+}
+
+.titre {
+    font-family: sans-serif;
+    color: red;
+}
+
+.fab fa-facebook-f fa-10x {
+    margin-bottom: 50px 0;
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    text-align: center;
 }
