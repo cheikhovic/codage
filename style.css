@@ -14,19 +14,31 @@ body{
 li{
     color: #333333;
     font-size: 19px;
-    font-family: cursive
+    font-family: cursive;
 }
-img 
+img {
     width: 50%;
 }
 div {
      color: #333;
     font-size: 19px;
-    font-family: cursive
-.DIV{
+    font-family: cursive;
+}
+.div{
   background-color: brown;
     width: 500PX;
     HEIGHT:500px;
     
 }
-    
+    .w-50 {
+        background-color: aquamarine;
+        width: 50%;
+        height: 100%;
+    }
+    .button {
+        margin-top: 50px
+            background-color: green;
+        width: 100%
+            text-align:center;
+
+    }
