@@ -16,11 +16,17 @@ li{
     font-size: 19px;
     font-family: cursive
 }
-img {
+img 
     width: 50%;
 }
 div {
      color: #333;
     font-size: 19px;
     font-family: cursive
+.DIV{
+  background-color: brown;
+    width: 500PX;
+    HEIGHT:500px;
+    
 }
+    
